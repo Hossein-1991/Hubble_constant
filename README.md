@@ -3,7 +3,7 @@ Hubble constant's measurement is one of controversial problems in today's world.
 
 Data:
 ------
-I used Super Nova data set from this precious site: https://sne.space/
+I used Supernova data set from this precious site: https://sne.space/
 
 For now, I only selected 110 data which includes SN data from 2017 onwards. 
 
