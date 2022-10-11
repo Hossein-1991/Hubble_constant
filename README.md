@@ -15,7 +15,7 @@ I employed linear regression to guess the Hubble constant. Using mean_square_err
 
 In the following (thanks to pymc3!), I modified the constant with bayesian analysis's help (Note that my prior knowledge stems from Planck measurement)
 
-Rsult:
+Result:
 ----------
 According to my calculations, the 95% HD interval was in [64.92, 69.63] range (Here my data was limited, but the pipeline will be the same for more complete data or another prior knowledge).
 
